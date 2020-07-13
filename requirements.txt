@@ -1,0 +1,4 @@
+exif
+ExifRead
+pandas
+Pillow

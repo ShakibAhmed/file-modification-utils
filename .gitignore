@@ -1,0 +1,5 @@
+venv
+logs/delete_duplicates/delete_duplicates_*_*.log
+logs/update_modified_time/update_modified_time*_*.log
+*.csv
+.idea
